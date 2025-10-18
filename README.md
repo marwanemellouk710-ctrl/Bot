@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot("7966251243:AAGEgU0IF5Wb-tiOIUmnfRjqOACJIuE4qXo")
+bot = telebot.TeleBot("7966251243:"اكتب هنا توكن البوت الخاص بك")
 MY_LINK = "https://marwanemellouk710-ctrl.github.io/black-coffee-/"
 
 @bot.message_handler(commands=['start', 'help'])
